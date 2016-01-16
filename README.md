@@ -1,4 +1,4 @@
-# paper-ads-mvc-rest-client
+# paper-ads-rest-service
 Provides REST service implementation to manage paper ads.
 
 **Tech Stack**
