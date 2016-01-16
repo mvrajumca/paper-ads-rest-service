@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsPapers>
+    <newsPapers>
+        <contactNbr>123450</contactNbr>
+        <newsPaperId>1</newsPaperId>
+        <newsPaperName>ABC</newsPaperName>
+    </newsPapers>
+    <newsPapers>
+        <contactNbr>123450</contactNbr>
+        <newsPaperId>1</newsPaperId>
+        <newsPaperName>ABC</newsPaperName>
+    </newsPapers>
+</newsPapers>
